@@ -30,6 +30,7 @@ def robot_analyst():
         presence_penalty=0  
     )
     answer = answer_data['choices']
+    
     for ans in answer:
         final_answer = ans['text']
         print(final_answer)
