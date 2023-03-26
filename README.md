@@ -5,7 +5,7 @@
 4. [Project 4 - “Bridging the Gap” – Learning to Practice](#project-4--bridging-the-gap--learning-to-practice)
 5. [Project 5 - My “CI/CD” Pipeline for - Continuous Improvement / Continuous Development](#project-5--my-cicd-pipeline-for--continuous-improvement--continuous-development)
 
-# Introduction
+# IST 782 Applied Data Science Portfolio Milestone
 
 A graduate of Syracuse University’s School of Information Studies (iSchool) Applied Data Science Master’s Degree - shall be able to use data for gaining insight into real world problems and act as a technical leading voice when solutioning.
 
